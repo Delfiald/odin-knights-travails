@@ -11,5 +11,5 @@ This project is part of The Odin Project's curriculum, demonstrating how to solv
 ## How to Run
 
 ```bash
-node bst.js
+node knights.js
 ```
